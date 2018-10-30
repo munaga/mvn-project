@@ -1,0 +1,22 @@
+{
+    "structures":[
+    ],
+    "entities":[
+    ],
+    "metaInfo":{
+        "appName":"tomcat",
+        "apiVersion":"1.0",
+        "packageName": "tomcat",
+        "generatePresence":true,
+        "generateClient":true,
+        "generateTests":true,
+        "transports":[
+            "amqp",
+            "xmpp",
+            "rest",
+            "websocket",
+            "jsonrpc",
+            "pure"
+        ]
+    }
+}

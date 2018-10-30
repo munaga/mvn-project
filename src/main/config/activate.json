@@ -1,0 +1,14 @@
+{
+    "applicationName": "tomcat",
+    "applicationVersion": "1.0_$SYSTEM_TIME",
+    "vendor": {
+        "name": "Acme LLC",
+        "homePage": "http://acme.com/",
+        "description": "Brillien Template module"
+    },
+    "activate": {
+        "presences": [
+        ],
+        "activator": "tomcat.Activator"
+    }
+}
