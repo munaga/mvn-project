@@ -1,2 +1,0 @@
-# mvn-project
-mvn-project
